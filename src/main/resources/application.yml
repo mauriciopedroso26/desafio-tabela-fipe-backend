@@ -1,0 +1,5 @@
+server:
+  port: 8070
+
+fipe:
+  url: http://fipeapi.appspot.com/api/1/carros/veiculo/{brand}/{vehicle_id}
